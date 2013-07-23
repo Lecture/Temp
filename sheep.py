@@ -3,7 +3,7 @@ from animal import Animal
 class sheep(Animal):
 
     def get_name(self):
-        pass
+        return "sheep"
 
     def get_sound(self):
-        pass
+        return "baaa"
